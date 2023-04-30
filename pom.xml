@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.19.237.234:8081/repository/Sandrine-release/</url>
+	      <url>http://18.218.209.181:8081/repository/Sandrine-release/></url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.19.237.234:8081/repository/Sandrine-snapshot/</url>
+	      <url>http://18.218.209.181:8081/repository/Sandrine-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
